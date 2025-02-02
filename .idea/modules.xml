@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pf1-lab1.iml" filepath="$PROJECT_DIR$/.idea/modules/pf1-lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Assign value to variable/pf1-lab1.In-Class_1-Assign_value_to_variable.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Assign value to variable/pf1-lab1.In-Class_1-Assign_value_to_variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Assign value to variable/pf1-lab1.In-Class_1-Assign_value_to_variable.main.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Assign value to variable/pf1-lab1.In-Class_1-Assign_value_to_variable.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Assign value to variable/pf1-lab1.In-Class_1-Assign_value_to_variable.test.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Assign value to variable/pf1-lab1.In-Class_1-Assign_value_to_variable.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Declare String variable/pf1-lab1.In-Class_1-Declare_String_variable.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Declare String variable/pf1-lab1.In-Class_1-Declare_String_variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Declare String variable/pf1-lab1.In-Class_1-Declare_String_variable.main.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Declare String variable/pf1-lab1.In-Class_1-Declare_String_variable.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Declare String variable/pf1-lab1.In-Class_1-Declare_String_variable.test.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Declare String variable/pf1-lab1.In-Class_1-Declare_String_variable.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Print the String/pf1-lab1.In-Class_1-Print_the_String.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Print the String/pf1-lab1.In-Class_1-Print_the_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Print the String/pf1-lab1.In-Class_1-Print_the_String.main.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Print the String/pf1-lab1.In-Class_1-Print_the_String.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Print the String/pf1-lab1.In-Class_1-Print_the_String.test.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Print the String/pf1-lab1.In-Class_1-Print_the_String.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Run the code/pf1-lab1.In-Class_1-Run_the_code.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Run the code/pf1-lab1.In-Class_1-Run_the_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Run the code/pf1-lab1.In-Class_1-Run_the_code.main.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Run the code/pf1-lab1.In-Class_1-Run_the_code.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/In-Class 1/Run the code/pf1-lab1.In-Class_1-Run_the_code.test.iml" filepath="$PROJECT_DIR$/.idea/modules/In-Class 1/Run the code/pf1-lab1.In-Class_1-Run_the_code.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/pf1-lab1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/pf1-lab1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/pf1-lab1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/pf1-lab1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/pf1-lab1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/pf1-lab1.util.test.iml" />
+    </modules>
+  </component>
+</project>

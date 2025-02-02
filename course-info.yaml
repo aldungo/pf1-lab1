@@ -1,0 +1,14 @@
+type: marketplace
+title: pf1-lab1
+language: English
+vendor:
+  name: Allison Dungo
+programming_language: Java
+content:
+  - In-Class 1
+environment_settings:
+  jvm_language_level: JDK_1_8
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+yaml_version: 2
