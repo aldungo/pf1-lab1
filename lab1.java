@@ -10,6 +10,6 @@
 public class lab1 {
     public static void main (String[] args) 
     {
-        // Step 4
+        System.out.println("Hello, World!");
     }
 }
